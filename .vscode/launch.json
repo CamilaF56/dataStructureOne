@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch quickSort2",
+      "request": "launch",
+      "mainClass": "quickSort2",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch quickSort",
+      "request": "launch",
+      "mainClass": "quickSort",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertionSort",
+      "request": "launch",
+      "mainClass": "insertionSort",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch treinoSeleçãoBolha",
+      "request": "launch",
+      "mainClass": "treinoSeleçãoBolha",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch treinoBubble",
+      "request": "launch",
+      "mainClass": "treinoBubble",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Camil/Desktop/ED1",
+      "program": "c:/Users/Camil/Desktop/ED1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
