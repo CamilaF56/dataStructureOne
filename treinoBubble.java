@@ -15,7 +15,7 @@ public class treinoBubble {
                 }
             }
             if(controle){
-                break; // quebrar pois ja está oredenado
+                break; // quebrar pois ja está ordenado
             }
         }
 

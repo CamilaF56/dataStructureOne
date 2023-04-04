@@ -32,5 +32,11 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "files.associations": {
+    "stdio.h": "c",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
 }

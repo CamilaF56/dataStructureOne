@@ -1,0 +1,4 @@
+- No programa poderá simular uma fila de banco onde o atendimento se baseia em 3 pessoas com prioridade e uma sem prioridade.
+- Ao inserir um cliente ele será automaticamente colocado de acordo com o tempo de chegada que é informado nas perguntas.
+- Ao selecionar atendimento o cliente da fila escolhida será atendido, caso tenha unificado será atendido automaticamente o cliente da única lista.
+- Pode-se exibir o tempo que falta para ser atendido em minutos com a opção 6 e informa o cliente que está sendo atendido.

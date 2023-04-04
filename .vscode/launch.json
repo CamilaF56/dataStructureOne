@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch lista",
+      "request": "launch",
+      "mainClass": "listaEmJava.lista",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch lista",
+      "request": "launch",
+      "mainClass": "lista",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch listaEncadeada",
+      "request": "launch",
+      "mainClass": "listaEncadeada",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lista",
+      "request": "launch",
+      "mainClass": "Lista",
+      "projectName": "ED1_8ff74f43"
+    },
+    {
+      "type": "java",
       "name": "Launch mergeSort",
       "request": "launch",
       "mainClass": "mergeSort",

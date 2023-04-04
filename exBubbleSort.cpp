@@ -43,7 +43,7 @@ int main()
     }while(troquei && fim>0);
 
     for(int i=0; i<5; i++){
-        cout<<"Informações:"<<endl;
+        cout<<"InformaÃ§Ãµes:"<<endl;
         cout<<"Nome: "<<Atleta[i].nome<<endl;
         cout<<"Altura: "<<Atleta[i].altura<<endl;
         cout<<"Peso: "<<Atleta[i].peso<<endl;
