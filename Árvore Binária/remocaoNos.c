@@ -99,7 +99,7 @@ tipoNode *removeNo(tipoNode *root, int n) // Remoção com nós folhas e com fil
                 }
                 else
                 {
-                    // remove nós com dois filhos (nós com filho à esquerda e à direita)
+                    // remove NÓS COM DOIS FILHOS (nós com filho à esquerda e à direita)
                     tipoNode *aux = menorDir(root);                      // encontra o sucessor do nó na árvore (menor valor à direita)
                     root->dado = aux->dado;                              // troca os valores dos nós
                     root->filhoDir = remover(root->filhoDir, aux->dado); // chama a função recursivamente
