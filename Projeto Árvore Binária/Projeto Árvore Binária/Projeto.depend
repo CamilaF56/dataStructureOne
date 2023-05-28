@@ -1,0 +1,250 @@
+# depslib dependency file v1.0
+1682913209 source:c:\users\camil\desktop\ed1\projeto Árvore binária\main.cpp
+	<raylib.h>
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\config.h
+	<cpptl/config.h>
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\forwards.h
+	"config.h"
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\features.h
+	"forwards.h"
+
+1479139970 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\writer.h
+	"value.h"
+	<vector>
+	<string>
+
+1682484750 source:c:\users\camil\desktop\ed1\projeto Árvore binária\jsoncpp.cpp
+	"json/json.h"
+	<json/config.h>
+	<clocale>
+	"json_tool.h"
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstring>
+	<iostream>
+	<istream>
+	<limits>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cstdio>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstring>
+	<iostream>
+	<sstream>
+	<utility>
+	<stdarg.h>
+	"json_valueiterator.inl"
+	"json_tool.h"
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cmath>
+	<cstdio>
+	<cmath>
+	<cstdio>
+	<float.h>
+	<float.h>
+	<ieeefp.h>
+
+1682484750 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\dist\json\json.h
+	<cstring>
+	<memory>
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	"config.h"
+
+1682445686 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib-master\src\config.h
+
+1682445686 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib-master\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1661477576 c:\users\camil\desktop\ed1\projeto Árvore binária\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1661477576 source:c:\users\camil\desktop\ed1\projeto Árvore binária\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1682484750 source:c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\dist\jsoncpp.cpp
+	"json/json.h"
+	<json/config.h>
+	<clocale>
+	"json_tool.h"
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstring>
+	<iostream>
+	<istream>
+	<limits>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cstdio>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstring>
+	<iostream>
+	<sstream>
+	<utility>
+	<stdarg.h>
+	"json_valueiterator.inl"
+	"json_tool.h"
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cmath>
+	<cstdio>
+	<cmath>
+	<cstdio>
+	<float.h>
+	<float.h>
+	<ieeefp.h>
+
+1660005332 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib-master\config.h
+
+1660005332 source:c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib-master\external\glfw\deps\getopt.c
+	"getopt.h"
+	<stddef.h>
+	<string.h>
+
+1660005332 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib-master\external\glfw\deps\getopt.h
+
+1479139970 source:c:\users\camil\desktop\ed1\projeto Árvore binária\includes\jsoncpp\include\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1659740350 source:c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1659740350 c:\users\camil\desktop\ed1\projeto Árvore binária\includes\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1682911044 source:c:\users\camil\desktop\ed1\projeto Árvore binária\main.c
+	"raylib.h"
+
+1682919407 source:c:\users\camil\desktop\ed1\projeto Árvore binária\cenas.cpp
+	"raylib.h"
+
+1682919725 source:c:\users\camil\desktop\ed1\projeto Árvore binária\cenas.h
+	"./cenas.cpp"
+
+1682919787 c:\users\camil\desktop\ed1\projeto Árvore binária\cenas.cpp
+	"raylib.h"
+
+1659740350 source:c:\users\camil\desktop\ed1\projeto Árvore binária\projeto Árvore binária\includes\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1683211575 source:c:\users\camil\desktop\ed1\projeto Árvore binária\projeto Árvore binária\main.cpp
+	<raylib.h>
+	<stdlib.h>
+	<string>
+
+1659740350 c:\users\camil\desktop\ed1\projeto Árvore binária\projeto Árvore binária\includes\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+

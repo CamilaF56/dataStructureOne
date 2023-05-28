@@ -1,0 +1,18 @@
+typedef struct no{
+    Pokemon pokemon;
+    struct no *pai;
+    struct no *filhoEsq;
+    struct no *filhoDir;
+}tipoNode;
+
+tipoNode* criaNo(Pokemon poke, tipoNode* pai){
+	tipoNode *novo;
+	novo = (tipoNode*) malloc(sizeof(tipoNode));
+	if(novo == NULL)
+    	return NULL;
+	novo->pokemon = poke;
+	novo->filhoDir = NULL;
+	novo->filhoEsq = NULL;
+	novo->pai = pai;
+	return novo;
+}

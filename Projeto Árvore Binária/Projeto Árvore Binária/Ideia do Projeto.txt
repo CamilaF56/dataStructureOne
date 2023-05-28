@@ -1,0 +1,7 @@
+O jogo começa com o jogador pensando em um Pokémon, e o programa faz perguntas para tentar adivinhar qual é esse Pokémon.
+
+Cada pergunta é representada por um nó da árvore binária, com duas possíveis respostas: "Sim" e "Não". Por exemplo, o primeiro nó pode perguntar se o Pokémon é do tipo elétrico, e ter dois filhos: um representando a resposta "Sim" e outro representando a resposta "Não". Se o jogador responder "Sim", ele é direcionado para o nó que representa a próxima pergunta sobre os Pokémon elétricos, e assim por diante.
+
+Ao final das perguntas, o programa deve tentar adivinhar qual é o Pokémon que o jogador está pensando. Se o programa acertar, ele vence o jogo. Caso contrário, ele pode pedir ao jogador para informar qual era o Pokémon que ele estava pensando, e adicionar essa nova informação à árvore binária para melhorar o jogo.
+
+Esse jogo pode ser personalizado com diferentes Pokémon e perguntas relacionadas a eles, tornando-o desafiador e divertido para os fãs da série. Além disso, é uma ótima oportunidade para aprender sobre os diferentes tipos de Pokémon, suas fraquezas e forças, tornando-o educativo também.

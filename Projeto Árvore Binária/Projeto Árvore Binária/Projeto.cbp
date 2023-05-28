@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c99" />
+					<Add directory="includes/raylib" />
+					<Add directory="../Projeto Árvore Binária" />
+					<Add directory="../../../../../raylib/raylib" />
+					<Add directory="../../../../../raylib/raylib/src" />
+					<Add directory="../../../../../raylib/raylib/projects/CodeBlocks" />
+				</Compiler>
+				<Linker>
+					<Add option="-LC:\includes\raylib\libraylib.a" />
+					<Add option="-LC:\includes\raylib\raygui.a" />
+					<Add library="includes/raylib/libraylib.a" />
+					<Add library="opengl32" />
+					<Add library="winmm" />
+					<Add library="gdi32" />
+					<Add library="includes/raylib/raygui.a" />
+					<Add directory="includes/raylib" />
+					<Add directory="../../../../../raylib/raylib" />
+					<Add directory="../../../../../raylib/raylib/src" />
+					<Add directory="../../../../../raylib/raylib/projects/CodeBlocks" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="includes/raylib/raygui.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="includes/raylib/raylib.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
